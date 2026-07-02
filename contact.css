@@ -1,0 +1,13 @@
+.box{
+width: 120px;
+height:56px;
+background-color: "red";
+}
+form{
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+input{
+width:480px;
+height:56px;
+color:black
+}
